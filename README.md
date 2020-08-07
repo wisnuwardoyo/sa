@@ -1,7 +1,7 @@
 Regular **Markdown** here.
 
-<div >
-```puml
+<div hidden>
+```
 @startuml firstDiagram
 
 Alice -> Bob: Hello
